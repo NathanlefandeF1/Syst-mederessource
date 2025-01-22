@@ -8,7 +8,7 @@ Systeme de ressource RP
  <title>Système Économique - Royaume-Uni</title>
  <style>
  body { font-family: Arial, sans-serif; }
- .container { max-width: 600px; margin: auto; padding: 20px; }
+ .container { max-width: 600; margin: auto; padding: 20px; }
  .resources, .buildings, .queue { margin-bottom: 20px; }
  button { margin-top: 10px; display: block; }
  </style>
